@@ -21,5 +21,5 @@ The polygons and the DEM need to be in the same projection. This is a potential 
 When polygons are not properly connected, the room in between is either seen as a polygon on its own, or if it’s connected to the outside, calculated as the outside polygon. 
 
 ## Further explainations
-In the document Hydrological_Connectivity_Documentation.pdf you find further information about the code structure and explanations how the code works, as well as an documentation of the development process.
+In the document [Hydrological_Connectivity_Documentation.pdf]( https://github.com/unibe-geodata-modelling/2019-hydrologic-connectivity/blob/master/Hydrological_Connectivity_Documentation.pdf) you find further information about the code structure and explanations how the code works, as well as an documentation of the development process.
 
